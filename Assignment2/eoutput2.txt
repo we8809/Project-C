@@ -1,0 +1,15 @@
+[PROGRAM_START]
+=================================================================================
+argc : 3
+argv[0] : a.exe
+argv[1] : abc
+argv[2] : defghi
+=================================================================================
+
+first_set = abc
+first_set_length = 3
+second_set = def
+second_set_length = 3
+
+
+SUCCESS

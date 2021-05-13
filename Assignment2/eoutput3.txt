@@ -1,0 +1,15 @@
+[PROGRAM_START]
+=================================================================================
+argc : 3
+argv[0] : a.exe
+argv[1] : abcdefg
+argv[2] : hijk
+=================================================================================
+
+first_set = abcdefg
+first_set_length = 7
+second_set = hijkkkk
+second_set_length = 7
+
+
+SUCCESS

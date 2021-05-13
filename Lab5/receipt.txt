@@ -1,0 +1,16 @@
+Charles' Seafood
+--------------------------------------------------
+2020-10-08 15:57:00                          00000
+--------------------------------------------------
+                         Scallops           24.55
+                             Crab           21.45
+                          Sashimi           15.50
+
+                         Subtotal           61.50
+                              Tax            3.08
+                            Total           64.58
+
+Thank you for dining with us today! We will wait f
+or your next visit!
+==================================================
+                                        Tax#-51234

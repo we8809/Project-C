@@ -1,0 +1,15 @@
+[PROGRAM_START]
+=================================================================================
+argc : 3
+argv[0] : a.exe
+argv[1] : aba
+argv[2] : cde
+=================================================================================
+
+first_set = ba
+first_set_length = 2
+second_set = de
+second_set_length = 2
+
+
+SUCCESS
